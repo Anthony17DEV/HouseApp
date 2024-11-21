@@ -52,7 +52,7 @@ lib/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Anthony17DEV/HouseApp.git
+   git clone https://github.com/Anthony17DEV/house_app.git
    cd house_app
    ```
 
